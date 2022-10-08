@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;  
+}
+
+.rect1{
+  background-color: #111;
+  border-radius: 30px;
+
+  text-align: center;
+  width: 500px;
+  height: 300px;
+}
+.division2{
+  position: relative;
+  margin-top: 30px;
+  width: 100vh;
+}
+
+.division2 div{
+  padding: 40px;
+  margin: 10px;
+  background: #3222;
+  width: 200px;
+  height: 100px;
+
+}
